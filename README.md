@@ -61,34 +61,15 @@ here, the Court concludes that Google’s copying of the API to reimplement a us
 ## [Opinion of Court 法院裁斷]
 
 
-  JUSTICE BREYER delivered the opinion of the Court. Oracle America, Inc., is the current owner of a copyright
-in Java SE, a computer program that uses the popular Java computer programming language. Google, without permission, has copied a portion of that program, a portion that enables a programmer to call up prewritten software that, together with the computer’s hardware, will carry out a large number of specific tasks. The lower courts have considered (1) whether Java SE’s owner could copyright the portion that Google copied, and (2) if so, whether Google’s copying nonetheless constituted a “fair use” of that material, thereby freeing Google from copyright liability. The Federal Circuit held in Oracle’s favor (i.e., that the portion is copyrightable and Google’s copying did not constitute a “fair use”). In reviewing that decision, we assume, for argument’s sake, that the material was copyrightable. But we hold that the copying here at issue nonetheless constituted a fair use. Hence, Google’s copying did not violate the copyright law. 
+  JUSTICE BREYER delivered the opinion of the Court. 
 
-  In 2005, Google acquired Android, Inc., a startup firm that hoped to become involved in smartphone software. Google sought, through Android, to develop a software platform for mobile devices like smartphones. 886 F. 3d 1179, 1187 (CA Fed. 2018); App. 137–138, 242–243. A platform
+  Oracle America, Inc., is the current owner of a copyright in Java SE, a computer program that uses the popular Java computer programming language. Google, without permission, has copied a portion of that program, a portion that enables a programmer to call up prewritten software that, together with the computer’s hardware, will carry out a large number of specific tasks. The lower courts have considered (1) whether Java SE’s owner could copyright the portion that Google copied, and (2) if so, whether Google’s copying nonetheless constituted a “fair use” of that material, thereby freeing Google from copyright liability. The Federal Circuit held in Oracle’s favor (i.e., that the portion is copyrightable and Google’s copying did not constitute a “fair use”). In reviewing that decision, we assume, for argument’s sake, that the material was copyrightable. But we hold that the copying here at issue nonetheless constituted a fair use. Hence, Google’s copying did not violate the copyright law. 
 
-provides the necessary infrastructure for computer programmers to develop new programs and applications. One
-might think of a software platform as a kind of factory floor
-where computer programmers (analogous to autoworkers,
-designers, or manufacturers) might come, use sets of tools
-found there, and create new applications for use in, say,
-smartphones. (For visual explanations of “platforms” and
-other somewhat specialized computer-related terms, you
-might want to look at the material in Appendix A, infra.)
-Google envisioned an Android platform that was free and
-open, such that software developers could use the tools
-found there free of charge. Its idea was that more and more
-developers using its Android platform would develop ever
-more Android-based applications, all of which would make
-Google’s Android-based smartphones more attractive to ultimate consumers. Consumers would then buy and use ever
-more of those phones. Oracle America, Inc. v. Google Inc.,
-872 F. Supp. 2d 974, 978 (ND Cal. 2012); App. 111, 464.
-That vision required attracting a sizeable number of skilled
-programmers.   
+  In 2005, Google acquired Android, Inc., a startup firm that hoped to become involved in smartphone software. Google sought, through Android, to develop a software platform for mobile devices like smartphones. 886 F. 3d 1179, 1187 (CA Fed. 2018); App. 137–138, 242–243. A platform provides the necessary infrastructure for computer programmers to develop new programs and applications. One
+might think of a software platform as a kind of factory floor where computer programmers (analogous to autoworkers, designers, or manufacturers) might come, use sets of tools found there, and create new applications for use in, say, smartphones. (For visual explanations of “platforms” and other somewhat specialized computer-related terms, you might want to look at the material in Appendix A, infra.) Google envisioned an Android platform that was free and open, such that software developers could use the tools found there free of charge. Its idea was that more and more developers using its Android platform would develop ever more Android-based applications, all of which would make
+Google’s Android-based smartphones more attractive to ultimate consumers. Consumers would then buy and use ever more of those phones. Oracle America, Inc. v. Google Inc., 872 F. Supp. 2d 974, 978 (ND Cal. 2012); App. 111, 464. That vision required attracting a sizeable number of skilled programmers.   
 
-  At that time, many software developers understood and
-wrote programs using the Java programming language, a
-language invented by Sun Microsystems (Oracle’s predecessor). 872 F. Supp. 2d, at 975, 977. About six million programmers had spent considerable time learning, and then
-using, the Java language. App. 228. Many of those programmers used Sun’s own popular Java SE platform to develop new programs primarily for use in desktop and laptop
+  At that time, many software developers understood and wrote programs using the Java programming language, a language invented by Sun Microsystems (Oracle’s predecessor). 872 F. Supp. 2d, at 975, 977. About six million programmers had spent considerable time learning, and then using, the Java language. App. 228. Many of those programmers used Sun’s own popular Java SE platform to develop new programs primarily for use in desktop and laptop
 computers. Id., at 151–152, 200. That platform allowed
 developers using the Java language to write programs that
 were able to run on any desktop or laptop computer, regardless of the underlying hardware (i.e., the programs were in large part “interoperable”). 872 F. Supp. 2d, at 977. Indeed, one of Sun’s slogans was “‘write once, run anywhere.’”
