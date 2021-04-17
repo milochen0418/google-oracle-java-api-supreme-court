@@ -60,7 +60,7 @@ here, the Court concludes that Google’s copying of the API to reimplement a us
 
 ## [Opinion of Court 法院裁斷]
 
-
+<pre>
   JUSTICE BREYER delivered the opinion of the Court. 
 
   Oracle America, Inc., is the current owner of a copyright in Java SE, a computer program that uses the popular Java computer programming language. Google, without permission, has copied a portion of that program, a portion that enables a programmer to call up prewritten software that, together with the computer’s hardware, will carry out a large number of specific tasks. The lower courts have considered (1) whether Java SE’s owner could copyright the portion that Google copied, and (2) if so, whether Google’s copying nonetheless constituted a “fair use” of that material, thereby freeing Google from copyright liability. The Federal Circuit held in Oracle’s favor (i.e., that the portion is copyrightable and Google’s copying did not constitute a “fair use”). In reviewing that decision, we assume, for argument’s sake, that the material was copyrightable. But we hold that the copying here at issue nonetheless constituted a fair use. Hence, Google’s copying did not violate the copyright law. 
@@ -81,3 +81,4 @@ here, the Court concludes that Google’s copying of the API to reimplement a us
 
   For each task, there is computer code, known as “implementing code,” that in effect tells the computer how to execute the particular task you have asked it to perform (such as telling you, of two numbers, which is the higher). See Oracle, 872 F. Supp. 2d, at 979–980. The implementing code (which Google independently wrote) is not at issue here. For a single task, the implementing code may be hundreds of lines long. It would be difficult, perhaps impossible, for a programmer to create complex software programs without drawing on prewritten task-implementing programs to execute discrete tasks. 
 
+</pre>
