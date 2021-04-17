@@ -11,8 +11,14 @@ the Java programming language to work with its new Android platform, Google copi
 (1) whether Java SE’s owner could copyright the copied lines from the API, and   
 (2) if so, whether Google’s copying constituted a permissible “fair use” of that material freeing Google from copyright liability. In the proceedings below, the Federal Circuit held that the copied lines are copyrightable. After a jury then found for Google on fair use, the Federal Circuit reversed, concluding that Google’s copying was not a fair use as a matter of law. Prior to remand for a trial on damages, the Court agreed to review the Federal Circuit’s determinations as to both copyrightability and fair use.   
 
+Oracle America，Inc.擁有Java SE的版權，Java SE是使用流行的Java計算機編程語言的計算機平台。 2005年，Google收購了Android，並尋求為移動設備構建新的軟件平台。讓數百萬程序員熟悉
+為了將Java編程語言與新的Android平台配合使用，Google從Java SE程序中復制了大約11,500行代碼。複製的行是稱為應用程序編程接口（API）的工具的一部分。 API使程序員可以調用預寫的計算任務以在自己的程序中使用。在曠日持久的訴訟過程中，下級法院已考慮
+（1）Java SE的所有者是否可以對從API複製的行進行版權保護，以及
+（2）如果是，則Google的複制是否構成對該材料的允許的“合理使用”，從而使Google免於承擔版權責任。在以下程序中，聯邦巡迴法院裁定，複製的線路具有版權。陪審團隨後裁定Google擁有合理使用權後，聯邦巡迴法院推翻了裁決，認為Google的複制在法律上不屬於合理使用。在要求賠償損失之前，法院同意審查聯邦巡迴法院關於版權和合理使用的裁決。 (Google翻譯)
 
 Held: Google’s copying of the Java SE API, which included only those lines of code that were needed to allow programmers to put their accrued talents to work in a new and transformative program, was a fair use of that material as a matter of law. Pp. 11–36.
+
+舉行：Google複製了Java SE API，其中僅包括使程序員能夠將應得的才能用於新的，變革性的程序中的那些代碼行，這在法律上是對這種材料的合理使用。 Pp。 11–36。(Google翻譯)  
 
 (a) Copyright and patents, the Constitution says, serve to “promote the Progress of Science and useful Arts, by securing for limited Times
 to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.
@@ -22,40 +28,54 @@ to Authors and Inventors the exclusive Right to their respective Writings and Di
 First, the Act provides that copyright protection cannot extend to “any
 idea, procedure, process, system, method of operation, concept, principle, or discovery . . . .” 17 U. S. C. §102(b). Second, the Act provides that a copyright holder may not prevent another person from making a “fair use” of a copyrighted work. §107. Google’s petition asks the Court to apply both provisions to the copying at issue here. To decide no more than is necessary to resolve this case, the Court assumes for argument’s sake that the copied lines can be copyrighted, and focuses on whether Google’s use of those lines was a “fair use.” Pp. 11–15.
 
+（a）《憲法》指出，版權和專利旨在“通過確保有限的時間來促進科學和實用藝術的進步”
+授予作者和發明人各自著作和發現的專有權利。
+“ 藝術。我，第8節，cl。 8.版權通過授予作者一段時間的專有權，來鼓勵他人廉價地複製作品。由於這種排他性可能會帶來負面後果，因此國會和法院限制了版權保護的範圍，以確保版權​​所有者的壟斷不會損害公共利益。
+
+  此案牽涉當前《版權法》中的兩個限制。
+首先，該法規定，版權保護不能擴展到“任何
+想法，程序，過程，系統，操作方法，概念，原理或發現。 。 。 。” 17 U. S. C.§102（b）。第二，該法規定，版權所有者不得阻止他人對受版權保護的作品進行“合理使用”。 §107。 Google的請願書要求法院將這兩項規定適用於此處有爭議的複制。為了解決該案，僅需作出判決，法院出於辯論的理由，認為複制的文字行應受版權保護，並著眼於Google對這些文字行的使用是否是“合理使用”。 Pp。 11-15。(Google 翻譯)
 
 (b) The doctrine of “fair use” is flexible and takes account of changes in technology. 
 Computer programs differ to some extent from many other copyrightable works because computer programs always serve a
 functional purpose. Because of these differences, fair use has an important role to play for computer programs by providing a contextbased check that keeps the copyright monopoly afforded to computer programs within its lawful bounds. Pp. 15–18.
 
+（b）“合理使用”的原則是靈活的，並考慮到技術的變化。
+計算機程序與許多其他受版權保護的作品在某種程度上有所不同，因為計算機程序始終為
+功能目的。 由於存在這些差異，合理使用對計算機程序具有重要作用，它可以通過提供基於上下文的檢查來確保對計算機程序的版權壟斷處於其合法範圍之內。 Pp。 15-18。(Google 翻譯)
 
 (c) The fair use question is a mixed question of fact and law. 
 Reviewing courts should appropriately defer to the jury’s findings of underlying facts, but the ultimate question whether those facts amount to a fair use is a legal question for judges to decide de novo. This approach does not violate the Seventh Amendment’s prohibition on courts reexamining facts tried by a jury, because the ultimate question here is one of law, not fact. The “right of trial by jury” does not include the right to have a jury resolve a fair use defense. Pp. 18–21.
 
+（c）合理使用問題是事實與法律的混合問題。
+複審法院應適當地遵循陪審團對基本事實的調查結果，但是這些事實是否構成合理使用的最終問題是法官從頭決定的法律問題。 這種方法沒有違反《第七修正案》關於禁止法院重新審查陪審團審判的事實的禁令，因為這裡的最終問題是法律之一，而不是事實。 “陪審團審判權”不包括要求陪審團解決合理使用辯護的權利。 Pp。 18–21。(Google 翻譯)
 
-(d) To determine whether Google’s limited copying of the API here constitutes fair use, the Court examines the four guiding factors set
-forth in the Copyright Act’s fair use provision: the purpose and character of the use; the nature of the copyrighted work; the amount and
-substantiality of the portion used in relation to the copyrighted work as a whole; and the effect of the use upon the potential market for or value of the copyrighted work. §107. The Court has recognized that some factors may prove more important in some contexts than in others. Campbell v. Acuff-Rose Music, Inc., 510 U. S. 569, 577. Pp. 21–35.
+(d) To determine whether Google’s limited copying of the API here constitutes fair use, the Court examines the four guiding factors set forth in the Copyright Act’s fair use provision: the purpose and character of the use; the nature of the copyrighted work; the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and the effect of the use upon the potential market for or value of the copyrighted work. §107. The Court has recognized that some factors may prove more important in some contexts than in others. Campbell v. Acuff-Rose Music, Inc., 510 U. S. 569, 577. Pp. 21–35.
 
+（d）為了確定Google在此處對API的有限複製是否構成合理使用，法院研究了《版權法》合理使用規定中規定的四個指導因素：使用目的和性質； 受版權保護的作品的性質； 與整個受版權保護作品有關的部分的數量和實質性； 以及使用對受版權保護作品的潛在市場或價值的影響。 §107。 法院已經認識到，某些因素在某些情況下可能比在其他情況下更重要。 Campbell訴Acuff-Rose Music，Inc.，《美國判例彙編》第510卷第569、577頁。 21–35。(Google翻譯)
 
 (1) The nature of the work at issue favors fair use. 
 The copied lines of code are part of a “user interface” that provides a way for programmers to access prewritten computer code through the use of simple commands. As a result, this code is different from many other types of code, such as the code that actually instructs the computer to execute a task. As part of an interface, the copied lines are inherently bound together with uncopyrightable ideas (the overall organization of the API) and the creation of new creative expression (the code independently written by Google). Unlike many other computer programs, the value of the copied lines is in significant part derived from the investment of users (here computer programmers) who have learned the API’s system. Given these differences, application of fair use here is unlikely to undermine the general copyright protection that Congress provided for computer programs. Pp. 21–24. 
 
-(2) The inquiry into the “the purpose and character” of the use turns in large measure on whether the copying at issue was “transformative,” i.e., whether it “adds something new, with a further purpose or different character.” Campbell, 510 U. S., at 579. Google’s
-limited copying of the API is a transformative use. Google copied only what was needed to allow programmers to work in a different computing environment without discarding a portion of a familiar programming language. Google’s purpose was to create a different task-related system for a different computing environment (smartphones) and to create a platform—the Android platform—that would help achieve and popularize that objective. The record demonstrates numerous ways in which reimplementing an interface can further the development of computer programs. Google’s purpose was therefore consistent with that creative progress that is the basic constitutional objective of copyright itself. Pp. 24–28. 
+（1）有爭議的作品的性質有利於合理使用。
+複製的代碼行是“用戶界面”的一部分，該界面為程序員提供了一種使用簡單命令訪問預寫計算機代碼的方法。 結果，此代碼不同於許多其他類型的代碼，例如實際上指示計算機執行任務的代碼。 作為界面的一部分，複製的行與不可複制的想法（API的整體組織）和新的創意表達（由Google獨立編寫的代碼）固有地綁定在一起。 與許多其他計算機程序不同，複製的行的價值很大一部分來自學習了API系統的用戶（這裡是計算機程序員）的投資。 鑑於這些差異，此處合理使用的應用不太可能破壞國會為計算機程序提供的一般版權保護。 Pp。 21-24。(Google翻譯)  
+
+(2) The inquiry into the “the purpose and character” of the use turns in large measure on whether the copying at issue was “transformative,” i.e., whether it “adds something new, with a further purpose or different character.” Campbell, 510 U. S., at 579. Google’s limited copying of the API is a transformative use. Google copied only what was needed to allow programmers to work in a different computing environment without discarding a portion of a familiar programming language. Google’s purpose was to create a different task-related system for a different computing environment (smartphones) and to create a platform—the Android platform—that would help achieve and popularize that objective. The record demonstrates numerous ways in which reimplementing an interface can further the development of computer programs. Google’s purpose was therefore consistent with that creative progress that is the basic constitutional objective of copyright itself. Pp. 24–28. 
+
+（2）對使用的“目的和特徵”的質疑在很大程度上取決於所討論的複制是否是“變革性的”，即是否“添加了新的，具有進一步目的或不同特徵的東西”。 坎貝爾，美國510，第579頁。Google對API的有限複製是一種變革性的用途。 Google只複製了允許程序員在不同的計算環境中工作而無需放棄一部分熟悉的編程語言的內容。 Google的目的是為不同的計算環境（智能手機）創建一個與任務相關的系統，並創建一個平台（Android平台）以幫助實現和普及該目標。 該記錄展示了重新實現接口可以促進計算機程序開發的多種方式。 因此，Google的目的與創造力的進步是一致的，這是版權本身的基本憲法目標。 Pp。 24–28。(Google翻譯)
 
 
-(3) Google copied approximately 11,500 lines of declaring code from the API, which amounts to virtually all the declaring code needed
-to call up hundreds of different tasks. Those 11,500 lines, however, are only 0.4 percent of the entire API at issue, which consists of 2.86 million total lines. In considering “the amount and substantiality of the portion used” in this case, the 11,500 lines of code should be viewed as one small part of the considerably greater whole. As part of an interface, the copied lines of code are inextricably bound to other lines of code that are accessed by programmers. Google copied these lines not because of their creativity or beauty but because they would allow programmers to bring their skills to a new smartphone computing environment. The “substantiality” factor will generally weigh in favor of fair use where, as here, the amount of copying was tethered to a valid, and transformative, purpose. Pp. 28–30.
+(3) Google copied approximately 11,500 lines of declaring code from the API, which amounts to virtually all the declaring code needed to call up hundreds of different tasks. Those 11,500 lines, however, are only 0.4 percent of the entire API at issue, which consists of 2.86 million total lines. In considering “the amount and substantiality of the portion used” in this case, the 11,500 lines of code should be viewed as one small part of the considerably greater whole. As part of an interface, the copied lines of code are inextricably bound to other lines of code that are accessed by programmers. Google copied these lines not because of their creativity or beauty but because they would allow programmers to bring their skills to a new smartphone computing environment. The “substantiality” factor will generally weigh in favor of fair use where, as here, the amount of copying was tethered to a valid, and transformative, purpose. Pp. 28–30.
 
+（3）Google從API複製了大約11,500行聲明代碼，這實際上相當於調用數百個不同任務所需的所有聲明代碼。 但是，這11,500行僅佔整個API的0.4％，該API總共有286萬行。 在這種情況下，在考慮“所用部分的數量和實質性”時，應將11,500行代碼視為相當大的一部分的一小部分。 作為接口的一部分，複製的代碼行與程序員可以訪問的其他代碼行有著千絲萬縷的聯繫。 Google複製這些行不是因為它們的創造力或美觀，而是因為它們允許程序員將其技能帶到新的智能手機計算環境中。 “實質性”因素通常會偏重於合理使用，在這種情況下，如此處所述，複製數量被束縛在有效的，可轉化的目的上。 Pp。 28-30。(Google翻譯)
 
-(4) The fourth statutory factor focuses upon the “effect” of the copying in the “market for or value of the copyrighted work.” §107(4).
-Here the record showed that Google’s new smartphone platform is not a market substitute for Java SE. The record also showed that Java SE’s copyright holder would benefit from the reimplementation of its interface into a different market. Finally, enforcing the copyright on these facts risks causing creativity-related harms to the public. When taken together, these considerations demonstrate that the fourth factor—market effects—also weighs in favor of fair use. Pp. 30–35. 
+(4) The fourth statutory factor focuses upon the “effect” of the copying in the “market for or value of the copyrighted work.” §107(4). Here the record showed that Google’s new smartphone platform is not a market substitute for Java SE. The record also showed that Java SE’s copyright holder would benefit from the reimplementation of its interface into a different market. Finally, enforcing the copyright on these facts risks causing creativity-related harms to the public. When taken together, these considerations demonstrate that the fourth factor—market effects—also weighs in favor of fair use. Pp. 30–35. 
 
-(e) The fact that computer programs are primarily functional makes it difficult to apply traditional copyright concepts in that technological
-world. Applying the principles of the Court’s precedents and Congress’ codification of the fair use doctrine to the distinct copyrighted work
-here, the Court concludes that Google’s copying of the API to reimplement a user interface, taking only what was needed to allow users to put their accrued talents to work in a new and transformative program, constituted a fair use of that material as a matter of law. In reaching this result, the Court does not overturn or modify its earlier cases involving fair use. Pp. 35–36. 
+（4）第四個法定因素集中於在“受版權保護的作品的市場或價值”中復制的“效力”。 第107（4）條。 記錄顯示，Google的新智能手機平台不能替代Java SE。 記錄還顯示，Java SE的版權所有者將從重新實現其接口到另一個市場中受益。 最後，對這些事實實施版權保護可能會給公眾帶來與創造力有關的損害。 綜合考慮，這些因素表明，第四個因素（市場影響）也有利於合理使用。 Pp。 30-35。(Google翻譯)
 
+(e) The fact that computer programs are primarily functional makes it difficult to apply traditional copyright concepts in that technological world. Applying the principles of the Court’s precedents and Congress’ codification of the fair use doctrine to the distinct copyrighted work here, the Court concludes that Google’s copying of the API to reimplement a user interface, taking only what was needed to allow users to put their accrued talents to work in a new and transformative program, constituted a fair use of that material as a matter of law. In reaching this result, the Court does not overturn or modify its earlier cases involving fair use. Pp. 35–36. 
 
+（e）計算機程序主要是功能性的事實使得很難在該技術世界中應用傳統的版權概念。 將法院判例的原則和國會對合理使用原則的編纂應用於此處獨特的版權作品，法院得出結論，谷歌複製API以重新實現用戶界面，僅採取了允許用戶將其應得的費用 在新的變革計劃中工作的人才，在法律上構成了對該材料的合理使用。 為了達到這一結果，法院不會推翻或修改其先前涉及合理使用的案件。 Pp。 35–36。(Google翻譯)
 
 
 ## [Opinion of Court 法院裁斷]
